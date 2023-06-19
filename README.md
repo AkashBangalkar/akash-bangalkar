@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Bangalkar</h1>
-<h3 align="center">A Passionate Python Developer and A Machine Learning Engineer</h3>
+<h3 align="center">Software Engineer/Salesforce Developer</h3>
 
 - 👨‍💻 All of my projects are available at [http://bit.ly/akash_b](http://bit.ly/akash_b)
 
