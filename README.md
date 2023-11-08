@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Bangalkar</h1>
 <h3 align="center">Software Engineer/Salesforce Developer</h3>
 
-- 👨‍💻 All of my projects are available at [http://bit.ly/akash_b](http://bit.ly/akash_b)
-
 - 📫 How to reach me **akashbangalkar4u@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
